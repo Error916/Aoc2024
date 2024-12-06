@@ -1,0 +1,4 @@
+bigboy #6
+gridsize: 32768
+silver:   4866
+gold:     3446
