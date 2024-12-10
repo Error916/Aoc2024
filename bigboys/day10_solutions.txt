@@ -1,0 +1,4 @@
+bigboy #10
+grid:   7500x7500
+silver: 433087
+gold:   624588
