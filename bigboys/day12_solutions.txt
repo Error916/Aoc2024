@@ -1,0 +1,4 @@
+bigboy #12
+grid:   4096
+silver: 1051734590
+gold:   653966888
