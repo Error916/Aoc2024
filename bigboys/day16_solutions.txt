@@ -1,0 +1,4 @@
+bigboy #16
+grid:   1000x1000 
+silver: 800196
+gold:   2367
