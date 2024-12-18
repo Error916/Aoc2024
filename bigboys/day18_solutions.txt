@@ -1,0 +1,4 @@
+bigboy #18
+grid:   5000x5000 
+silver: 9998
+gold:   3163,4131
