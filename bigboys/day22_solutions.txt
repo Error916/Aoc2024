@@ -1,0 +1,4 @@
+bigboy #22
+monkeys: 1000000
+silver:  8385838872479
+gold:    879695
